@@ -1,0 +1,5 @@
+
+1) pdf to image (https://stackoverflow.com/questions/46184239/extract-a-page-from-a-pdf-as-a-jpeg)
+2) display pdf, choose where to put image
+3) create new pdf page with image at coordinates
+4) merge pages (https://pythonhosted.org/PyPDF2/PdfFileMerger.html)
